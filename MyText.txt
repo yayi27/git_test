@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo Vers. 4 (lokale Änderung)
+=======
+Hallo Vers. 4 - Wurde in gitHub geändert
+>>>>>>> e72252902b88bab14e7287867a3743d08a931ebd
